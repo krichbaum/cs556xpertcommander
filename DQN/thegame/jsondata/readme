@@ -1,1 +1,2 @@
-
+The "action_space_50.json" file is for game with 50 cards (playable cards 2-48)
+The "action_space.json" file is for game with 100 cards
